@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- *
+ *counts to imputed number
  * @jacoe0850 
  */
 public class Main {
